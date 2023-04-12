@@ -1,0 +1,8 @@
+CoMiCプロジェクト
+ITSのみ
+
+１．NGS-Data-Processing内の「dada2_script.txt」をR上で入力し、NGSで得たfastqファイルを処理して、5つのテキストファイルを得る。このうち「rarefied_ASV_table.txt」が一番重要である。
+
+２．「rarefied_ASV_table.txt」とDemo data内の「experimental_design_ITS.csv」「each_farm.csv」（この2つのファイルは自分で作成）からすべてのファイル、画像が作られている。
+
+３．各ファイルの「入力ファイル」「Rコマンド」から「出力ファイル」が得られる。一部、出力されたファイルを入力することで、新たなファイルが得られるものがある。
